@@ -1,0 +1,7 @@
+AuthName "Cookbook Developers"
+AuthType Basic
+AuthUserFile /home/t0corrs89e6m/www/cookbook/.passwd
+
+<LIMIT GET POST>
+  require user guest
+</LIMIT>  
