@@ -1,5 +1,5 @@
 # CookbookCollaboration
-Online recipe submission system to support publication of a printed cookbook.
+Online Recipe Collection System
 
 As a board member of the East Texas Baptist University Alumni Association, I led 
 a fundraising project to create an alumni cookbook, and single-handedly built an
